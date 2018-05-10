@@ -1,5 +1,6 @@
 # OpenGL/GLSL course projects - April 2017
-## tested on Ubuntu/gcc5.x and Windows/Visual C++2013.
+## tested on Ubuntu/g++5.x and Windows/Visual C++2013.
+with FreeGLUT 3.0 and GLEW 1.1.3<br/>
 
 ## **Raytracing algorithm:**
 

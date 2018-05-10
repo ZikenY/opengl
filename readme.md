@@ -1,4 +1,4 @@
-# OpenGL/GLSL course projects - May 2017
+# OpenGL/GLSL course projects - April 2017
 ## tested on Ubuntu/gcc5.x and Windows/Visual C++2013.
 
 ## **Raytracing algorithm:**
@@ -46,4 +46,4 @@ Set the z-value in Z-buffer to -1.<br/>
 
 matrix4f.cpp implements the basic mathmatic/vector/matrix functions and structures. The trackball is implemented by quaternion.<br/>
 glaux.cpp implements the common mouse/keyboard view control functions.<br/>
-load_m.cpp implements a mash file loader.<br/>
+load_m.cpp implements a mash loader.<br/>

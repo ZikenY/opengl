@@ -1225,8 +1225,6 @@ Texture* create_texture_warpper(string filename)
         string ext = filename.substr(filename.length() - 4, 4);
         if (ext == ".bmp")
             texture = new Bitmap(filename.c_str());
-        else if (ext == ".tga")
-            texture = new Tga(filename.c_str());
     }
 
     return texture;

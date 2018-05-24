@@ -1,7 +1,3 @@
-#ifdef QT_CORE_LIB
-#include <QCoreApplication>
-#endif
-
 #ifdef _MSC_FULL_VER
 #include <tchar.h>
 #include <windows.h>

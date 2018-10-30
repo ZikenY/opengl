@@ -1,4 +1,4 @@
-# OpenGL/GLSL practices - April 2017
+# OpenGL/GLSL wapper framework - April 2017
 ## tested on Ubuntu/g++5.x and Windows/Visual C++.
 with FreeGLUT3.0, GLEW1.1.3 and OpenGL3.0<br/>
 
